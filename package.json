@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/flaviohugo14/video-maker.git",
   "author": "Flávio Pangrácio <flaviohugo.14@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
